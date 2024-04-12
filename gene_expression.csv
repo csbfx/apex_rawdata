@@ -1,0 +1,6 @@
+,Gene_ID,Gene_Name,Expression_Level,Mutation_Status
+0,Gene1,ABC,10.5,Wildtype
+1,Gene2,DEF,8.2,Mutant
+2,Gene3,GHI,15.3,Wildtype
+3,Gene4,JKL,7.8,Wildtype
+4,Gene5,MNO,11.2,Mutant
